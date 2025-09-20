@@ -1,2 +1,2 @@
-# progettoTecWeb
+# projTecWeb
 my first repository
